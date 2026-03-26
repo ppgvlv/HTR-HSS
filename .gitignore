@@ -29,6 +29,9 @@ events.out.tfevents.*
 *.pt
 *.ckpt
 
+# Output folders
+output/
+
 # Dataset files
 data/iam/
 data/LAM/

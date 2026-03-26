@@ -400,18 +400,13 @@ A typical result is shown below:
 
 ## 7. Checkpoints
 
-The `output/` directory contains example trained checkpoints:
+- We provide selected pretrained checkpoints for convenience.
 
-- `output/IAM_A0_noAniso/`
-- `output/LAM_A0_noAniso/`
-- `output/READ_A0_noAniso/`
-
-Each directory may contain:
-
-- `best_CER.pth`
-- `best_WER.pth`
-- TensorBoard event logs
-- training logs
+  | Dataset | Checkpoint |
+  |--------|------------|
+  | IAM | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
+  | LAM | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
+  | READ2016 | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
 
 ------
 
