@@ -404,9 +404,9 @@ A typical result is shown below:
 
   | Dataset | Checkpoint |
   |--------|------------|
-  | IAM | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
-  | LAM | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
-  | READ2016 | [Download](https://huggingface.co/ppgvlv/HTR-HSS-checkpoints) |
+  | IAM | [Download](https://huggingface.co/fuckingCotti/HTR-HSS-checkpoints) |
+  | LAM | [Download](https://huggingface.co/fuckingCotti/HTR-HSS-checkpoints) |
+  | READ2016 | [Download](https://huggingface.co/fuckingCotti/HTR-HSS-checkpoints) |
 
 ------
 
