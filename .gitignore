@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env / Conda
+.env
+.venv
+venv/
+env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# TensorBoard
+events.out.tfevents.*
+
+# Checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+
+# Output folders
+output/
+
+# Dataset files
+data/iam/
+data/LAM/
+data/read2016/
+
+# OS files
+.DS_Store
+Thumbs.db
