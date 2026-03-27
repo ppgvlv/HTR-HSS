@@ -1,7 +1,7 @@
 #!/bin/bash
 
 python3 train.py \
-  --exp-name lam \
+  --exp-name LAM_A0_noAniso \
   --max-lr 1e-3 \
   --train-bs 32 \
   --val-bs 8 \
